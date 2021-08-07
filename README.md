@@ -1,8 +1,12 @@
-#                                                           👋 Hi, I’m @umranbertan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+                                                                       #        👋 Hi, I’m @umranbertan
+- 👀
+- 🌱
+- 💞️
+ * 📫 How to reach me umranbertan@gmail.com
+ * Connect with me:
+[linkedin] (https://www.linkedin.com/in/umranbertan/) [medium] (https://medium.com/@umranbertan)
+
+
 
 <!---
 umranbertan/umranbertan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
