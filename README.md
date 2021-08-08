@@ -1,7 +1,5 @@
-                                                                       #        👋 Hi, I’m @umranbertan
-- 👀
-- 🌱
-- 💞️
+  #                                                                             👋 Hi, I’m @umranbertan
+
  * 📫 How to reach me umranbertan@gmail.com
  * Connect with me:
 
