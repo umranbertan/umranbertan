@@ -1,7 +1,7 @@
   <h1 align="center">Hi 👋, I'm Umran</h1>
 
  * 📫 How to reach me umranbertan@gmail.com
- * Connect with me:
+ 
 
 
 
