@@ -1,9 +1,16 @@
-  #                                                                             👋 Hi, I’m @umranbertan
+  <h1 align="center">Hi 👋, I'm Umran</h1>
 
  * 📫 How to reach me umranbertan@gmail.com
  * Connect with me:
 
-<a href="https://www.linkedin.com/in/umranbertan/"> <img src="linkedin.png" width="70" height="50"></a>  <a href="https://umranbertan.medium.com/"> <img src="medium.png" width="70" height="50"></a>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/umranbertan/" target="_blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png"  height="40" width="40" /></a>
+<a href="https://umranbertan.medium.com/" target="_blank"><img align="center" src="https://icon-library.com/images/medium-icon/medium-icon-21.jpg"  height="40" width="40" /></a>
+</p>
+
 
 <!---
 umranbertan/umranbertan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
