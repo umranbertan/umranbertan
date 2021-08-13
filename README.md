@@ -1,6 +1,6 @@
   <h1 align="center">Hi 👋, I'm Umran</h1>
 
- * 📫 How to reach me umranbertan@gmail.com
+ * 📫 How to reach me umranbertan@gmail.com or umranbertanteknik@gmail.com
  
 
 
